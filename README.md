@@ -18,4 +18,5 @@ Implementation steps:
 
 
 
-If you want to build an Android App use Kotlin files. 
+**Note: If you want to build an Android App use Kotlin files. 
+**
