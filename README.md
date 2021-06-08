@@ -17,3 +17,5 @@ Implementation steps:
 7. Map output score with category name and show results
 
 
+
+If you want to build an Android App use Kotlin files. 
